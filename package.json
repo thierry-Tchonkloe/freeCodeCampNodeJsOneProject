@@ -1,6 +1,6 @@
 {
-	"author": "TCHONKLOE Thierry",
 	"name": "fcc-learn-npm-package-json",
+	"author": "TCHONKLOE Thierry",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
